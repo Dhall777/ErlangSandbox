@@ -1,2 +1,3 @@
 # ErlangSandbox
-Installation hub for Erlang/OTP config. Latter branches to include HTTP server loaded with GUI, functional modules, and embedded encryption.
+Installation hub for Erlang/OTP config. Next branch (library-esque web dev) -> generate app/system skeleton, call supervision tree
++ run http server under it, implement app features
