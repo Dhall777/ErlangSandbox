@@ -1,4 +1,4 @@
 # ErlangSandbox_AdaptiveSystems
-hub for adaptive systems architecture.
-v1.1
-source last updated: 12/14/19
+<p> hub for adaptive systems architecture.<p\>
+<p> v1.1 <p\>
+<p> source last updated: 12/14/19 <p\>
