@@ -23,7 +23,7 @@ loop(Weights) ->
 		dot(Input,Weights,I*W+Acc);
 	dot([],[Bias],Acc)->
 		Acc + Bias.
-%List comprehension, Completed list comprehension required since the used dot product function assumes bias is incorporated as the last value on the weight list. Perhaps this is also a recursive list tranformation, pattern number 0.
+%Function clause two, The used dot product function assumes bias is incorporated as the last value on the weight list. Perhaps this is also a recursive list expression, pattern number 0.
 
 sense(Signal)->
 	case is_list(Signal) and (length(Signal) == 2) of
