@@ -6,7 +6,7 @@
 create()->
 	Weights = [rand:uniform()-0.5,rand:uniform()-0.5,rand:uniform()-0.5],
 	register(neuron, spawn(?MODULE,loop,[Weights])).
-%Genesis seed binding, Create function spawns a single neuron, where the weights and the bias values are generated randomly between -0.0 and 0.5.
+%Genesis neuron spawned, Create function spawns a single neuron where the weights and the bias values are generated randomly between -0.0 and 0.5.
 
 loop(Weights) ->
 	receive
