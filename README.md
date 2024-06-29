@@ -1,4 +1,2 @@
-# Erl/OTP Adaptive Systems
-<p> hub for modular computational intelligence, to be deployed to GRiSP eventually.<p\>
-<p> v1.1 <p\>
+# Sandbox for testing the CNE/TWEANN system.  Use at your own risk.
 <p> source last updated: 2/10/20 <p\>
